@@ -13,12 +13,12 @@ Aplicativo para organizar o inventário escolar, registrar empréstimos e devolu
 ## 🧩 Outros projetos
 
 - [AtividadeIMC](https://github.com/VitorSoaresGoad/AtividadeIMC) — calculadora de IMC feita com React Native e TypeScript.
-- [Conversor_de_Moedas](https://github.com/VitorSoaresGoad/Conversor_de_Moedas) — aplicativo de conversão de moedas criado para estudo.
-- [Painel-Senha](https://github.com/VitorSoaresGoad/Painel-Senha) — app React Native para fila de atendimento médico, com geração de senhas e prioridade para pessoas idosas.
+- [Atividade-6 — Aplicativo de Serviços](https://github.com/VitorSoaresGoad/Atividade-6---Aplicativo-de-Servi-os) — app mobile com login, módulos de IMC, conversão de moedas, pedidos e sistema solar.
+- [Painel-Senha](https://github.com/VitorSoaresGoad/Painel-Senha) — app para fila de atendimento médico, geração de senhas e prioridade para pessoas idosas.
 
 ## 🛠️ Tecnologias
 
-`TypeScript` · `React Native` · `Expo` · `Firebase` · `JavaScript` · `HTML` · `CSS`
+`TypeScript` · `React Native` · `Expo` · `Firebase` · `SQLite` · `JavaScript` · `HTML` · `CSS`
 
 ---
 
