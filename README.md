@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Vitor 👋
 
-<!--
-**VitorSoaresGoad/VitorSoaresGoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, criando projetos web e mobile enquanto transformo ideias em aplicações funcionais.
 
-Here are some ideas to get you started:
+## 🚀 Projeto em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [SGEE Mobile — Gestão de Equipamentos Escolares](https://github.com/VitorSoaresGoad/ControleAtivosEscolares)
+
+Aplicativo para organizar o inventário escolar, registrar empréstimos e devoluções, acompanhar ocorrências e exportar relatórios. O projeto usa autenticação Microsoft e controle de acesso por perfil.
+
+**Tecnologias:** React Native · Expo · TypeScript · Firebase Authentication · Cloud Firestore
+
+## 🧩 Outros projetos
+
+- [AtividadeIMC](https://github.com/VitorSoaresGoad/AtividadeIMC) — calculadora de IMC feita com React Native e TypeScript.
+- [Conversor_de_Moedas](https://github.com/VitorSoaresGoad/Conversor_de_Moedas) — projeto de conversão de moedas desenvolvido para estudo.
+- [Painel-Senha](https://github.com/VitorSoaresGoad/Painel-Senha) — projeto em TypeScript.
+
+## 🛠️ Tecnologias
+
+`TypeScript` · `React Native` · `Expo` · `Firebase` · `JavaScript` · `HTML` · `CSS`
+
+---
+
+> “Tu te tornas eternamente responsável por aquilo que cativas.” — *O Pequeno Príncipe*
+
+Sempre aprendendo, praticando e construindo. ✨
